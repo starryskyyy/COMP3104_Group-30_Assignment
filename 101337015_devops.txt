@@ -4,3 +4,11 @@ COMP 3104 DevOps teaches the procedures, protocols and best practices that a Dev
 workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
 available and implement hands-on work using industry standard toolkit. Create solution to complex business
 problem by adhering to the core responsibilities of DevOps.
+
+What is DevOps?
+
+DevOps is a set of practices that works to automate and integrate the processes between software
+development and IT teams, so they can build, test, and release software faster and more reliably.
+The term DevOps was formed by combining the words “development” and “operations” and
+signifies a cultural shift that bridges the gap between development and operation teams, which
+historically functioned in siloes.

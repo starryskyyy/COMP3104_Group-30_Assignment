@@ -11,3 +11,14 @@ The resources that are recommended for this course are:
 
 In the beginning this course will teach you how to use GitHubs and GitBash commands to create, push, edit and more for your GitHub repositories.
 It'll also teach you what your role, responsibilities, culture and lifecycle of a DevOp. 
+
+In COMP 3104 you'll have the following
+Lab Exercises - 8 out of 10 (Your best marks)
+Lecture Quizzes - 8 out of 10 (Your best marks)
+Assignments - One group and One individual assignment
+Exams - One midterm and one final exam
+
+The key to success in this class as per the Professor that teaches it is, come to the lecture and labs, do the lab exercises and practice.
+
+The professor that is currently teaching COMP 3104 is Professor Pritesh Patel. I recommend our professor as he goes in depth and explains
+how DevOps is important.

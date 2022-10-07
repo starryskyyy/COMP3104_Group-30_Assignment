@@ -1,0 +1,9 @@
+Development and operations teams are no longer "siloed" under a DevOps approach. 
+There are instances when these two teams are combined into one, where the engineers work across the whole application 
+lifecycle—from development and test to deployment and operations—and acquire a variety of skills that are not specific to any one function.
+
+There are many benefits of DevOps which will be listed below:
+
+Speed - Move quickly so you can develop for clients more quickly, better adjust to shifting markets, and become more effective at generating business results. 
+Your development and operations teams can accomplish these goals thanks to the DevOps approach. 
+For instance, teams can take control of services and change them more quickly thanks to microservices and continuous delivery.

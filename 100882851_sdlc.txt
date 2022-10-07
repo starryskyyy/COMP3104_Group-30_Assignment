@@ -15,3 +15,13 @@ You can keep up with performance in real-time with the aid of monitoring and log
 
 Improved Collaboration - Build more efficient teams using the DevOps culture model, which stresses principles like accountability and ownership. 
 Teams of developers and operations work closely together, divide up tasks, and merge workflows. Inefficiencies are decreased, and time is saved.
+
+"Why does DevOps matter?"
+
+The world and its sectors, from retail to entertainment to finance, have been completely altered by software and the Internet. 
+Software now plays a crucial role in every aspect of a business, going beyond simply providing assistance. 
+Through software supplied as online services or applications and on a variety of devices, businesses communicate with their customers. 
+Additionally, they employ software to transform every step of the value chain, including logistics, 
+communications, and operations, in order to improve operational efficiencies. 
+Companies now must change how they produce and distribute software in a similar way to how physical goods companies changed how they 
+design, build, and deliver things utilising industrial automation throughout the 20th century.

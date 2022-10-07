@@ -1,0 +1,13 @@
+Welcome to COMP 3104! Here you'll find out everything about this course and what it offers.
+
+COMP 3104 is a course where it teaches you about DevOps from beginning to end and how this knowledge will help you in the coding field.
+
+The resources that are recommended for this course are:
+1. GitHub
+2. Travis-CI
+3. Docker
+4. Kubernetes
+5. Sonarqube
+
+In the beginning this course will teach you how to use GitHubs and GitBash commands to create, push, edit and more for your GitHub repositories.
+It'll also teach you what your role, responsibilities, culture and lifecycle of a DevOp. 

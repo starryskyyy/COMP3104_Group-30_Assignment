@@ -7,3 +7,11 @@ There are many benefits of DevOps which will be listed below:
 Speed - Move quickly so you can develop for clients more quickly, better adjust to shifting markets, and become more effective at generating business results. 
 Your development and operations teams can accomplish these goals thanks to the DevOps approach. 
 For instance, teams can take control of services and change them more quickly thanks to microservices and continuous delivery.
+
+Reliability - Ensure the calibre of application updates and infrastructure modifications so you can deliver 
+consistently at a faster rate while keeping the end user experience good. 
+Test each change to ensure it is secure and functional using techniques like continuous integration and continuous delivery. 
+You can keep up with performance in real-time with the aid of monitoring and logging procedures.
+
+Improved Collaboration - Build more efficient teams using the DevOps culture model, which stresses principles like accountability and ownership. 
+Teams of developers and operations work closely together, divide up tasks, and merge workflows. Inefficiencies are decreased, and time is saved.

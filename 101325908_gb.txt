@@ -15,3 +15,8 @@ GBC has 3 campuses in Toronto. Each campus offers different type of educations.
 3. Waterfront Campus
    Waterfront campus is literally located in East Bayfront and right in front of the water, the HUGE lake.
    This campus is designated to provide education about health science.
+
+I am currently enrolled in T177 (Computer Programming and Analysis) program that teaches information technologies.
+It has been 2 years since I came to this college and I learned how to code in various programming languages such as C#, Java, JS, Python, etc...
+In addition to that, we learned how to construct a data model and several ways to manage our projects.
+And now, we are learning Development Operations based on the knowledge that we have learnt so far.

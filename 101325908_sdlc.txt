@@ -10,3 +10,13 @@ There are four Core Devops Principles:
 2. Collaboration and communication
 3. Continuous improvement and minimization of waste
 4. Hyperfocus on user needs with short feedback loops
+
+I think the reason why we need to learn devops is that
+1. it helps in reducing the time for cycles of development
+2. it helps to improve collaboration and communication of a team
+3. it helps to increase efficiencies in general
+4. it ensures that there is a reduction in rollbacks, failures of deployment
+5. products' quality that came out with devops are generally excellent
+6. It is a smart career option in the technical job market
+
+Because of all those mentioned reasons, there is no much rational reasons to avoid learning devops.

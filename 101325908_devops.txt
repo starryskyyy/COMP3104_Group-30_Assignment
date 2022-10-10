@@ -15,3 +15,8 @@ implementation of tried, tested and true DevOps technologies.
 
 Students will have 10 Lab Exercises, 10 Quizzes, 1 individual and 1 group assignment, and finally midterm and final exam in this course.
 For Lab Exercises and Quizzes, only 8 quizzes out of 10 will be considered as final mark.
+
+While I was learning to develop programs, I have seen some information about Devops several times.
+However, every time I saw something related to Devops, I always felt something like ambiguous feelings.
+In my brain, the image that I can come up with when It comes to Devops is an abstract concept.
+I want to make this concrete as I go through this course. I am looking forward to learn more deeper story about devops.

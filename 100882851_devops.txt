@@ -1,8 +1,7 @@
 Welcome to COMP 3104! Here you'll find out everything about this course and what it offers.
+The following will be learned and taught by profesor Professor Pritesh in Semester 5 of T177, COMP 3104
 
 COMP 3104 is a course where it teaches you about DevOps from beginning to end and how this knowledge will help you in the coding field.
-
-The resources that are recommended for this course are:
 1. GitHub
 2. Travis-CI
 3. Docker

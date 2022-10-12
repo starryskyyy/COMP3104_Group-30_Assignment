@@ -54,7 +54,7 @@ Example from Yoonhee Kim and Elizaveta Vygovskaia
 
 ### 4. Updated branch and merged  :star2:
 
-Example from Yoonhee Kim
+Example from Yoonhee Kim 
 
 
 ## Authors

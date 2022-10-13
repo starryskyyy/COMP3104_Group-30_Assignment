@@ -1,0 +1,5 @@
+Course Name : DevOps
+Course Code: COMP3104
+Professor Name: Pritesh Patel
+Professor Email: Pritesh.patel2@georgebrown.ca
+Recommended Resources: GitHub / Travis CI / Docker / Kubemetes / Sonarqube

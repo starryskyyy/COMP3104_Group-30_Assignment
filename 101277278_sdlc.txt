@@ -1,2 +1,15 @@
 What is SDLC:
 The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development: Requirement analysis, Planning, Software design such as architectural design, Software development, Testing, Deployment
+
+Reason why learning DevOps is important:
+Let's find out more in addition to the aforementioned the benefit of DevOps in 101277278_devops.txt.
+1. Shorten Production Cycles
+2. Increase Deployment Success Rates
+3. Improved Collaboration and Communication
+4. Increased Efficiency Through Automation
+5. Work with Good Developers
+6. A Good Organizational Culture
+7. Increase Product Quality
+8. Increase Your Value
+9. Become Respected in IT
+10. Increase Your Salary

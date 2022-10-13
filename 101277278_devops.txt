@@ -3,3 +3,15 @@ Course Code: COMP3104
 Professor Name: Pritesh Patel
 Professor Email: Pritesh.patel2@georgebrown.ca
 Recommended Resources: GitHub / Travis CI / Docker / Kubemetes / Sonarqube
+
+Evaluation System:
+---------------------------------------------------------------------------------------------
+Assessment Tool   Description                                Date/Week      % of Final Grade
+---------------------------------------------------------------------------------------------
+Lab Exercise      Completion of lab exercises 8 out of 10    TBA            16
+Lecture Quizzes   10 quizzes, best 8 out of 10               1-7 / 10-14    8
+Assignment        Individual assignment                      12             10
+Assignment        Group assignment                           TBA            16
+Exam              Mid-Term exam                              9              20
+Exam              Final exam                                 15             30
+

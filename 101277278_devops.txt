@@ -1,0 +1,23 @@
+Course Name : DevOps
+Course Code: COMP3104
+Professor Name: Pritesh Patel
+Professor Email: Pritesh.patel2@georgebrown.ca
+Recommended Resources: GitHub / Travis CI / Docker / Kubemetes / Sonarqube
+
+Evaluation System:
+---------------------------------------------------------------------------------------------
+Assessment Tool   Description                                Date/Week      % of Final Grade
+---------------------------------------------------------------------------------------------
+Lab Exercise      Completion of lab exercises 8 out of 10    TBA            16
+Lecture Quizzes   10 quizzes, best 8 out of 10               1-7 / 10-14    8
+Assignment        Individual assignment                      12             10
+Assignment        Group assignment                           TBA            16
+Exam              Mid-Term exam                              9              20
+Exam              Final exam                                 15             30
+
+What is DevOps:
+A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.
+What does DevOps mean for teams? DevOps enables formerly siloed roles—development, IT operations, quality engineering, and security—to coordinate and collaborate to produce better, more reliable products. By adopting a DevOps culture along with DevOps practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.
+
+The benefit of DevOps:
+Teams that adopt DevOps culture, practices, and tools become high-performing, building better products faster for greater customer satisfaction. This improved collaboration and productivity is also integral to achieving business goals like these: Accelerating time to market, Adapting to the market and competition, Maintaining system stability and reliability, Improving the mean time to recovery.

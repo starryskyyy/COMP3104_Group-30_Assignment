@@ -13,3 +13,7 @@ Let's find out more in addition to the aforementioned the benefit of DevOps in 1
 8. Increase Your Value
 9. Become Respected in IT
 10. Increase Your Salary
+
+Learning DevOps is Easy:
+DevOps is easy to learn, really any developer with a minimum of experience can learn DevOps in a simple way, even with basic knowledge of Linux and any other programming language.
+By becoming a DevOps engineer, you can easily understand the software development lifecycle and fully understand the different automation tools that exist for developing digital pipelines.

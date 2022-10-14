@@ -13,7 +13,6 @@
 
 ## Finished Tasks  :white_check_mark:
 ### 1. Created repository :star2:
-
 Example from Elizaveta Vygovskaia
 
 ![Creating repository in GitBash](https://snipboard.io/uAtlr6.jpg)
@@ -45,16 +44,19 @@ Example from Danny Nguyen
 
 #### Importance of learning DevOps :herb:
 
-Example from Yoonhee Kim and Elizaveta Vygovskaia
+Example from Elizaveta Vygovskaia and Yoonhee Kim
 
     a. File with information about importance of learning DevOps been created
 ![Adding](https://snipboard.io/tT3beX.jpg)
 
     b. Updated information in the file 
+![Updating](https://snipboard.io/R1EsSN.jpg)
 
 ### 4. Updated branch and merged  :star2:
 
-Example from Yoonhee Kim  
+Example from Yoonhee Kim
+
+![Merge](https://snipboard.io/4EsiUk.jpg)
 
 
 ## Authors
